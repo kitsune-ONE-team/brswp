@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1920"
+   height="1080"
+   id="svg2">
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4501">
+      <feGaussianBlur
+         stdDeviation="7.0277588"
+         id="feGaussianBlur4503" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4517">
+      <feGaussianBlur
+         stdDeviation="6.9008854"
+         id="feGaussianBlur4519" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4529">
+      <feGaussianBlur
+         stdDeviation="6.4781189"
+         id="feGaussianBlur4531" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4815"
+     style="display:inline">
+    <g
+       id="g4845"
+       style="display:inline">
+      <path
+         d="m 1330.5163,478.04015 c 13.6985,0.53123 33.1834,0.21175 96.3414,19.55423 -38.3871,-23.14087 -125.4559,-40.69333 -160.215,-33.26653 21.5253,2.66866 59.4801,8.67157 63.8736,13.7123 z m 161.6677,92.59099 c 115.3517,58.58879 0.9412,34.01928 -27.3758,44.69058 -33.442,12.60266 -153.0524,71.61254 -174.139,115.43564 -7.9919,16.60915 16.7086,53.77258 40.9087,54.94546 41.015,1.98784 173.0292,7.34987 212.1114,39.8995 71.4486,59.50596 130.9135,3.25909 150.5203,19.49391 27.5799,22.83672 32.5054,37.83341 74.1061,9.25856 17.7777,-12.21124 17.1814,-47.0679 -25.3003,-71.97243 C 1712.4862,674.69734 1597.2461,586.89795 1492.184,570.63114 z"
+         id="path4847"
+         style="fill:#e900f4;fill-opacity:0.88235294;stroke:none;filter:url(#filter4517)" />
+    </g>
+  </g>
+</svg>

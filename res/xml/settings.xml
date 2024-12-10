@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:title="Settings"
+                  android:key="settings">
+  <ListPreference android:key="rotate"
+                  android:title="Rotate"
+                  android:entries="@array/rotateKeys"
+                  android:entryValues="@array/rotateValues"
+                  android:defaultValue="0" />
+  <ListPreference android:key="framerate"
+                  android:title="Frame Rate"
+                  android:entries="@array/framerateKeys"
+                  android:entryValues="@array/framerateValues"
+                  android:defaultValue="15" />
+  <ListPreference android:key="background"
+                  android:title="Background"
+                  android:entries="@array/backgroundKeys"
+                  android:entryValues="@array/backgroundValues"
+                  android:defaultValue="0" />
+  <ListPreference android:key="character"
+                  android:title="Character"
+                  android:entries="@array/characterKeys"
+                  android:entryValues="@array/characterValues"
+                  android:defaultValue="0" />
+</PreferenceScreen>

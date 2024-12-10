@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="rotateKeys">
+    <item>0⁰</item>
+    <item>90⁰</item>
+    <item>270⁰</item>
+  </string-array>
+  <string-array name="rotateValues">
+    <item>0</item>
+    <item>90</item>
+    <item>270</item>
+  </string-array>
+  <string-array name="framerateKeys">
+    <item>10 FPS</item>
+    <item>15 FPS</item>
+    <item>20 FPS</item>
+    <item>25 FPS</item>
+    <item>30 FPS</item>
+  </string-array>
+  <string-array name="framerateValues">
+    <item>10</item>
+    <item>15</item>
+    <item>20</item>
+    <item>25</item>
+    <item>30</item>
+  </string-array>
+  <string-array name="backgroundKeys">
+    <item>Chains</item>
+    <item>Spikes</item>
+    <item>Spikes (Dark ver.)</item>
+    <item>Cube</item>
+    <item>Floor</item>
+    <item>Abyss</item>
+  </string-array>
+  <string-array name="backgroundValues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>4</item>
+    <item>5</item>
+    <item>3</item>
+  </string-array>
+  <string-array name="characterKeys">
+    <item>Kuroi Mato</item>
+    <item>STRENGTH</item>
+    <item>BRS (Normal)</item>
+    <item>BRS (Insane)</item>
+    <item>BRS (Power)</item>
+  </string-array>
+  <string-array name="characterValues">
+    <item>4</item>
+    <item>3</item>
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+</resources>

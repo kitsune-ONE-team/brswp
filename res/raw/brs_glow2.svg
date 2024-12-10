@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1920"
+   height="1080"
+   id="svg2">
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4386">
+      <feGaussianBlur
+         id="feGaussianBlur4388"
+         stdDeviation="6.4296876" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4414">
+      <feGaussianBlur
+         id="feGaussianBlur4416"
+         stdDeviation="6.5901486" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4430">
+      <feGaussianBlur
+         id="feGaussianBlur4432"
+         stdDeviation="6.1438628" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4446">
+      <feGaussianBlur
+         id="feGaussianBlur4448"
+         stdDeviation="6.399302" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4465">
+      <feGaussianBlur
+         id="feGaussianBlur4467"
+         stdDeviation="6.6398305" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4485">
+      <feGaussianBlur
+         id="feGaussianBlur4487"
+         stdDeviation="6.8573812" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4501">
+      <feGaussianBlur
+         id="feGaussianBlur4503"
+         stdDeviation="7.0277588" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4517">
+      <feGaussianBlur
+         id="feGaussianBlur4519"
+         stdDeviation="6.9008854" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4529">
+      <feGaussianBlur
+         id="feGaussianBlur4531"
+         stdDeviation="6.4781189" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer24"
+     style="display:inline">
+    <g
+       id="g4390"
+       style="display:inline">
+      <path
+         d="m 1353.1716,546.86396 c 24.0711,17.16386 -26.0262,55.51932 41.0858,90.44975 -55.5451,-91.49384 92.9616,-81.65596 138.7603,-67.00514 -65.5735,-33.48391 -116.6571,-37.32702 -179.8461,-23.44461 z M 1496,670.5 c -105.7178,110.42247 -292.7655,101.91784 -198.6716,19.22183 -23.5341,13.00615 -111.3839,70.41795 38.4228,69.74263 -21.7674,13.83973 -35.0047,20.19876 -71.3491,21.87868 40.5805,15.68767 75.5182,-12.133 104.3526,-11.9695 28.303,0.16049 55.1979,21.32734 79.3979,22.50022 41.015,1.98784 70.6292,-20.82163 118.7869,-4.45874 29.4486,10.00596 99.9537,39.00691 112.0605,49.24173 27.3453,23.11713 70.6183,53.3657 106.0711,21.22183 25.2682,-22.90988 7.2391,-57.78177 -42,-76.10051 -35.0226,-13.0297 -114.692,-181.88312 -206.2488,-230.03553 C 1598.3174,652.64902 1541.2922,664.14125 1496,670.5 z"
+         id="path4392"
+         style="fill:#3bfffa;fill-opacity:0.88235294;stroke:none;filter:url(#filter4414)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1920"
+   height="1080"
+   id="svg2">
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4430">
+      <feGaussianBlur
+         stdDeviation="6.1438628"
+         id="feGaussianBlur4432" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4446">
+      <feGaussianBlur
+         stdDeviation="6.399302"
+         id="feGaussianBlur4448" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4465">
+      <feGaussianBlur
+         stdDeviation="6.6398305"
+         id="feGaussianBlur4467" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4485">
+      <feGaussianBlur
+         stdDeviation="6.8573812"
+         id="feGaussianBlur4487" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4501">
+      <feGaussianBlur
+         stdDeviation="7.0277588"
+         id="feGaussianBlur4503" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4517">
+      <feGaussianBlur
+         stdDeviation="6.9008854"
+         id="feGaussianBlur4519" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4529">
+      <feGaussianBlur
+         stdDeviation="6.4781189"
+         id="feGaussianBlur4531" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4815"
+     style="display:inline">
+    <g
+       id="g4829"
+       style="display:inline">
+      <path
+         d="m 1307.2097,516.45837 c 22.5564,60.57808 -12.976,76.36857 34.7218,104.59189 -68.4414,-99.26825 89.1428,-91.34946 150.074,-74.07621 -59.9166,-29.94838 -134.3347,-39.44834 -184.7958,-30.51568 z m 167.1482,137.7132 c -33.8431,11.48182 -96.644,50.00029 -117.7306,93.82339 -7.9919,16.60915 34.1329,41.86287 58.3329,43.03575 41.015,1.98784 104.1647,-14.85716 152.3224,1.50573 29.4486,10.00596 99.0603,39.74955 111.1671,49.98437 27.3453,23.11713 74.5562,54.27587 108.6569,20.70102 15.3687,-15.13171 13.7244,-47.18989 -34.2573,-70.09442 -33.7227,-16.09782 -49.7534,-123.4298 -244.5478,-242.45584 93.2377,113.27034 12.068,87.88984 -33.9436,103.5 z"
+         id="path4831"
+         style="fill:#e900f4;fill-opacity:0.88235294;stroke:none;filter:url(#filter4446)" />
+    </g>
+  </g>
+</svg>
