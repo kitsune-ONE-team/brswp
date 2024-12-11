@@ -1,5 +1,5 @@
 /*
-* Copyright (C) 2014 Yonnji Nyyoka, yonnji@miqote.com
+* Copyright (C) 2014 Yonnji Nyyoka, yonnji@kitsune.one
 *
 * This program is free software; you can redistribute it and/or
 * modify it under the terms of the GNU General Public License
@@ -15,7 +15,7 @@
 * along with this program; if not, write to the Free Software
 * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
 */
-package com.miqote.brswp;
+package one.kitsune.brswp;
 
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
@@ -30,6 +30,8 @@ import android.view.SurfaceHolder;
 import android.util.Log;
 import java.io.*;
 import com.larvalabs.svgandroid.*;
+import one.kitsune.brswp.R;
+
 
 public class LiveWallpaperService extends WallpaperService {
 
